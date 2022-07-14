@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=NkSyJb7MY2s&t=1527s
+
+Add menu di config adminlte 
+Add di cms Permisson dan Role
+
+add routes web
+add view
+add livewire .
+php artisan make:model Flight 
+
+add app/Http/livewire/
